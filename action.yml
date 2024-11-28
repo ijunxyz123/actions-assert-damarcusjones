@@ -1,5 +1,5 @@
-name: "Assert Actual Is Expected"
-branding:
+name: "Jun Group Showcase"
+branding: Jones Technology Foundation 
   icon: "target"
   color: "green"
 description: "Write tests in GitHub Workflows for integration tests and build pipelines"
