@@ -25,7 +25,7 @@
     "@actions/core": "^1.10.0",
     "live-plugin-manager": "^0.17.0",
     "minipass": "^3.3.5",
-    "superstruct": "^0.15.2"
+    "superstruct": "^0.16.7"
   },
   "devDependencies": {
     "@pr-mpt/assertions-is-equal": "^0.1.0",
